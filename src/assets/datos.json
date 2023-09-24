@@ -100,7 +100,7 @@
 	"question": "¿Cuál de los dos diagramas muestra una reacción exotérmica?",
         "texto": "",
         "imageUrl": "https://quimica.s3.amazonaws.com/kahoot-exo-endoterm.png",
-	"answer": 1,
+	"answer": 0,
 	"options": [
 		"A",
 		"B",
@@ -136,7 +136,7 @@
 	"question": "¿Qué gas se produce en el dispositivo mostrado?",
         "texto": "",
         "imageUrl": "https://quimica.s3.amazonaws.com/kahoot-hidrogeno-gas.png",
-	"answer": 1,
+	"answer": 2,
 	"options": [
 		"CO2",
 		"O2",
