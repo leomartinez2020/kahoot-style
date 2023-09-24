@@ -1,0 +1,52 @@
+{
+  "datos": [
+    {
+	"question": "La síntesis industrial del ácido nítrico se representa por la siguiente ecuación:",
+        "texto": "En condiciones normales, un mol de NO2 reacciona con suficiente agua para producir",
+        "imageUrl": "https://quimica.s3.amazonaws.com/kahoot-amoniaco.png",
+	"answer": 2,
+	"options": [
+		"3/2 moles de HNO3",
+		"4/3 moles de HNO3",
+		"2/3 moles de HNO3"
+	],
+	"selected": null
+    },
+    {
+	"question": "Un recipiente de 10 litros de capacidad contiene 0,5 moles de nitrógeno, 2,5 moles de hidrógeno y 1 mol de oxígeno. De acuerdo con esto, es correcto afirmar que la presión",
+        "texto": "",
+        "imageUrl": "",
+	"answer": 2,
+	"options": [
+		"total en el recipiente depende únicamente de la presión parcial del hidrógeno",
+		"parcial del oxígeno es mayor a la presión parcial del hidrógeno",
+		"total en el recipiente es igual a la suma de las presiones del nitrógeno, del oxígeno y del hidrógeno"
+	],
+	"selected": null
+    },
+    {
+	"question": "Un gas es sometido a tres procesos identificados con las letras X, Y y Z. Estos procesos son esquematizados en los gráficos que se presentan a continuación:",
+        "texto": "Las propiedades que cambian en el proceso X son",
+        "imageUrl": "https://quimica.s3.amazonaws.com/kahoot-gas-pv.png",
+	"answer": 1,
+	"options": [
+		"V, T",
+		"P, V",
+		"P, V, T"
+	],
+	"selected": null
+    },
+    {
+	"question": "",
+        "texto": "De acuerdo con la ecuación anterior, si reaccionan 10 moles de agua con 3 moles de calcio probablemente",
+        "imageUrl": "https://quimica.s3.amazonaws.com/kahoot-calcio-reaccion.png",
+	"answer": 1,
+	"options": [
+		"los reactivos reaccionarán por completo sin que sobre masa de alguno",
+		"el calcio reaccionará completamente y permanecerá agua en exceso",
+		"se formarán 13 moles de hidrógeno"
+	],
+	"selected": null
+    }
+  ]
+}

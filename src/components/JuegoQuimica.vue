@@ -1,17 +1,13 @@
 <script setup>
-import { ref } from 'vue'
+import { ref, computed } from 'vue'
+import Joda from './Joda.vue'
 
-defineProps({
-  msg: String,
-})
-
-const count = ref(0)
 </script>
 
 <template>
   <h1>Repaso de química</h1>
-
-  <div>
+  <Joda />
+  <div class="audio">
     <p>Kahoot:</p>
     <audio controls>
       <source src="https://quimica.s3.amazonaws.com/kahoot-lobby.mp3" type="audio/mpeg">
@@ -38,5 +34,7 @@ const count = ref(0)
 </template>
 
 <style scoped>
-
+.audio {
+  margin-top: 2em;
+}
 </style>
