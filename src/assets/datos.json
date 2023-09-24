@@ -47,6 +47,102 @@
 		"se formarán 13 moles de hidrógeno"
 	],
 	"selected": null
+    },
+    {
+	"question": "A temperatura constante y a 1 atmósfera de presión, un recipiente cerrado y de volumen variable, contiene una mezcla de un solvente líquido y un gas parcialmente miscible en él, tal como lo muestra el dibujo.",
+        "texto": "Si se aumenta la presión, es muy probable que la concentración del gas en la fase",
+        "imageUrl": "https://quimica.s3.amazonaws.com/kahoot-henry-gas.png",
+	"answer": 0,
+	"options": [
+		"líquida aumente",
+		"líquida permanezca constante",
+		"gaseosa aumente"
+	],
+	"selected": null
+    },
+    {
+	"question": "Una muestra de ácido clorhídrico puro, HCl, necesita 100 g de NaOH de 80% de pureza para neutralizarse. La masa de la muestra de ácido clorhídrico es",
+        "texto": "",
+        "imageUrl": "https://quimica.s3.amazonaws.com/kahoot-neutralizar.png",
+	"answer": 0,
+	"options": [
+		"73 g",
+		"80 g",
+		"40 g"
+	],
+	"selected": null
+    },
+    {
+	"question": "Se preparó medio litro de una solución patrón de HCl 1M; de esta solución, se extrajeron 50 ml y se llevaron a un balón aforado de 100 ml, luego se completó a volumen añadiendo agua.",
+        "texto": "Teniendo en cuenta esta información, es válido afirmar que el valor de la concentración en la nueva solución será igual",
+        "imageUrl": "",
+	"answer": 2,
+	"options": [
+		"al doble de la concentración en la solución patrón",
+		"a la cuarta parte de la concentración en la solución patrón",
+		"a la mitad de la concentración de la solución patrón"
+	],
+	"selected": null
+    },
+    {
+	"question": "El carbonato de calcio también se puede descomponer por calentamiento como se muestra en la siguiente ecuación",
+        "texto": "A condiciones normales, se determina el contenido de CO2 a partir de la descomposición de una muestra de 500 gramos de roca que contiene 25 % de carbonato de calcio. De acuerdo con lo anterior, la cantidad de moles de CO2 que se produce es",
+        "imageUrl": "https://quimica.s3.amazonaws.com/kahoot-carbonato.png",
+	"answer": 1,
+	"options": [
+		"0.25",
+		"1.25",
+		"2.50"
+	],
+	"selected": null
+    },
+    {
+	"question": "¿Cuál de los dos diagramas muestra una reacción exotérmica?",
+        "texto": "",
+        "imageUrl": "https://quimica.s3.amazonaws.com/kahoot-exo-endoterm.png",
+	"answer": 1,
+	"options": [
+		"A",
+		"B",
+		"Ninguna de las dos"
+	],
+	"selected": null
+    },
+    {
+	"question": "El manómetro sirve para medir la presión de un gas en un recipiente.",
+        "texto": "Con respecto a la imagen, ¿cuál de los siguientes es verdadero?",
+        "imageUrl": "https://quimica.s3.amazonaws.com/kahoot-manometro.png",
+	"answer": 0,
+	"options": [
+		"La presión del gas es mayor que la atmosférica",
+		"La presión del gas es igual a la atmosférica",
+		"La presión del gas es menor a la atmosférica"
+	],
+	"selected": null
+    },
+    {
+	"question": "El porcentaje de sodio en el hidróxido de sodio, NaOH, (masa molar = 40 g) es:",
+        "texto": "",
+        "imageUrl": "",
+	"answer": 0,
+	"options": [
+		"57%",
+		"43%",
+		"50%"
+	],
+	"selected": null
+    },
+    {
+	"question": "¿Qué gas se produce en el dispositivo mostrado?",
+        "texto": "",
+        "imageUrl": "https://quimica.s3.amazonaws.com/kahoot-hidrogeno-gas.png",
+	"answer": 1,
+	"options": [
+		"CO2",
+		"O2",
+		"H2"
+	],
+	"selected": null
     }
   ]
 }

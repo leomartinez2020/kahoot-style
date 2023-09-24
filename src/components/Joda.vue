@@ -43,7 +43,7 @@ const NextQuestion = () => {
 		
 		<section class="quiz" v-if="!quizCompleted">
 			<div class="quiz-info">
-                                <p class="score">Score {{ score }}/{{ questions.length }}</p>
+                                <p class="score">Puntaje {{ score }}/{{ questions.length }}</p>
 				<span class="question">{{ getCurrentQuestion.question }}</span><br/>
                                 
                                 <img v-if="getCurrentQuestion.imageUrl" class="image" :src="getCurrentQuestion.imageUrl" alt="yerda" />
@@ -93,8 +93,8 @@ const NextQuestion = () => {
 		</section>
 
 		<section v-else>
-			<h2>You have finished the quiz!</h2>
-			<p>Your score is {{ score }}/{{ questions.length }}</p>
+			<h2>Se acabó el quiz!</h2>
+			<p>Resultado: {{ score }}/{{ questions.length }}</p>
 		</section>
 	</main>
 </template>
